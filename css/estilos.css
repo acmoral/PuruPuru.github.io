@@ -1,0 +1,63 @@
+body{
+    background: #5c365b    ;
+    color:#333;
+    text-align: center;
+    font-family: "Yusei Magic";
+    margin: 0;
+    padding: 0;
+}
+#cabecera
+{
+    background:#fdfeff;
+    color: rgb(106, 189, 120);
+    margin:0;
+    font-weight: bold;
+    font-size: 30px;
+    box-shadow:0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    padding:0.5em 0 0.5em 2em;
+}
+#cabecera #logo
+{ 
+    width: 250px;
+    vertical-align: middle;
+}
+#container
+{
+    width:70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    font-style: Courier;
+    margin: 0 auto;
+}
+#cabecera #tagline
+{   
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size:0.7em;
+}
+#container h1
+{
+    font-size: 20px;
+}
+#footer
+{
+    background: rgb(156, 154, 154);
+    color:white;
+    font-size: 15px;
+    text-align: center;
+    padding: 0.4em;
+}
+#post
+{ 
+    background: white;
+    padding: 1em;
+    
+}
+#contents
+{
+    background:rgb(255, 255, 255);
+    padding: 1em;
+    box-shadow:1px 2px 20px 1px rgba(0, 0, 0, 0.5);
+}
+
